@@ -85,6 +85,7 @@ export const portfolioData = {
       iconType: 'image',
       iconContent: '/logos/logo-s.png',
       description: "Payment infrastructure for autonomous AI agents. Instead of charging a card per API call or tool invocation, agents deposit USDC once at session start and stream signed payment authorizations off-chain per action with no gas, no latency, and no block confirmation. At session end the final authorization settles onchain, unspent funds return automatically, and the locked deposit earns yield via Aave V3 the entire time. Built with Solidity, TypeScript, Python, Next.js, wagmi, viem, and Alchemy. Deployed on Base mainnet.",
+      githubUrl: 'https://github.com/notandruu/solvopay',
       liveUrl: 'https://solvopay.xyz',
       hasMedia: false,
     },
