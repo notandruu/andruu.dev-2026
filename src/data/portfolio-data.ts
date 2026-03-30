@@ -58,7 +58,7 @@ export const portfolioData = {
       year: '2026',
       iconType: 'image',
       iconContent: '/logos/nuraform.png',
-      description: "Describe a form in natural language and an AI agent builds it instantly. Built for businesses that collect signups, interest, and feedback. An agent processes every response in real time, generates summaries, extracts insights, and triggers follow up actions automatically. Got #2 Product of the Day on Product Hunt and has over 18k users on the platform.",
+      description: "Describe a form in natural language and an AI agent builds it instantly. Built for businesses that collect signups, interest, and feedback. An agent processes every response in real time, generates summaries, extracts insights, and triggers follow up actions automatically. Got #2 Product of the Day on Product Hunt and has 18,000+ users on the platform.",
       hasMedia: true,
       mediaType: 'video',
       mediaUrl: '/videos/nuraform.mp4',
