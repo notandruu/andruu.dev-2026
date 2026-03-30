@@ -44,7 +44,7 @@ export const portfolioData = {
     socialLinks: [
       { id: 'github', icon: 'github', label: '@notandruu', href: 'https://github.com/notandruu' },
       { id: 'linkedin', icon: 'linkedin', label: 'andrew liu', href: 'https://linkedin.com/in/liu-andrew' },
-      { id: 'x', icon: 'x', label: '', href: 'https://x.com/notandruu' },
+      { id: 'x', icon: 'x', label: '', href: 'https://x.com/l72784421' },
       { id: 'instagram', icon: 'instagram', label: '', href: 'https://instagram.com/andrewiiu22' },
       { id: 'youtube', icon: 'youtube', label: '', href: 'https://youtube.com/@andruu.22' },
       { id: 'spotify', icon: 'spotify', label: '', href: 'https://open.spotify.com/user/hueguueyr8qb8hzn9xodcpmnf' },
