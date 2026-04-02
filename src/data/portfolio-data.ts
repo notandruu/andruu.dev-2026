@@ -226,15 +226,6 @@ export const portfolioData = {
 
   hiddenWork: [
     {
-      id: 'bab',
-      title: 'Developer, Blockchain at Berkeley',
-      year: '2026',
-      iconType: 'image',
-      iconContent: '/logos/bab.jpeg',
-      description: "Shipping smart contract applications and full-stack dApps for company consulting engagements through UC Berkeley's blockchain org. Contribute to open-source protocol research and run technical workshops for student developers.",
-      hasMedia: false,
-    },
-    {
       id: 'hexlayer',
       title: 'getaurora.app',
       year: '2025',
@@ -259,6 +250,15 @@ export const portfolioData = {
   ] as AccordionItemData[],
 
   work: [
+    {
+      id: 'bab',
+      title: 'Developer, Blockchain at Berkeley',
+      year: '2026',
+      iconType: 'image',
+      iconContent: '/logos/bab.jpeg',
+      description: "Shipping smart contract applications and full-stack dApps for company consulting engagements through UC Berkeley's blockchain org. Contribute to open-source protocol research and run technical workshops for student developers.",
+      hasMedia: false,
+    },
     {
       id: 'pse',
       title: 'Director of Technology, Pi Sigma Epsilon',
